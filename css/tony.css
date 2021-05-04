@@ -1,0 +1,45 @@
+/* Fonts */ 
+
+/* 'Karantina', cursive; */
+
+@import url('https://fonts.googleapis.com/css2?family=Karantina:wght@300&display=swap');
+
+/* 'Open Sans', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+
+/* 'Roboto Slab', serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+/* 'Josefin Sans', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
+
+/* 'Allan', cursive; */
+
+@import url('https://fonts.googleapis.com/css2?family=Allan&display=swap');
+    
+/* 'Baloo Chettan 2', cursive; */
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Chettan+2&display=swap');
+
+/* HTML , BODY */
+
+html , body{
+    margin : 0px;
+}
+
+/* CSS */
+
+.font-1{
+    font-family: 'Baloo Chettan 2', cursive;
+}
+
+.font-allan{
+    font-family: 'Allan', cursive;;
+}
+ .color-1{
+    color: #454E9E;
+}
+

@@ -1,0 +1,42 @@
+/* IMPORT */
+
+@import url(fonts.css);
+
+@import url(variables.css);
+
+    /* HTML / BODY / BG */
+
+    html , body {
+      margin : 0px ;
+      scroll-behavior: smooth;
+    }
+
+/* TODO : */
+
+/* * Animation */
+
+.show {
+  animation: fadeIn 0.5s;
+}
+
+.show-active {
+  animation: fadeIn 0.5s;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0 ;
+  }
+
+  to {
+    opacity: 1 ;
+  }
+}
+
+/* * Hover Effects */
+
+.off{
+  opacity: 0;
+  display: none;
+  transition: 1s;
+}
