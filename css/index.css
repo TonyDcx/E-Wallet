@@ -33,10 +33,7 @@
   }
 }
 
-/* * Hover Effects */
-
 .off{
   opacity: 0;
-  display: none;
-  transition: 1s;
+  transition: 0.5s;
 }
